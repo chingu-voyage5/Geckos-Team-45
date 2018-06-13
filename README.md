@@ -1,2 +1,2 @@
 # Geckos-Team-45
-Add-project-description-here | Voyage-5 | chingu.io
+Productivity app | Voyage-5 | chingu.io
